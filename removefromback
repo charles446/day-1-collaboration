@@ -1,0 +1,4 @@
+let myString = "Bonjour Mackenzy"
+console.log(myString)
+
+
